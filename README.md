@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to 꿀샘방
 
-You can use the [editor on GitHub](https://github.com/hyunmeelee/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
+오늘 처음 챗봇 페이지를 만듦
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
